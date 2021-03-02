@@ -2,9 +2,7 @@
 
 ## Front End
 
-- HTML
-
-- CSS
+- HTML & CSS
 
 - Figma
 
