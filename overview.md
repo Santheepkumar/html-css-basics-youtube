@@ -1,5 +1,7 @@
 ## Tutorial Roadmap
 
+# Front End
+
 - HTML
 
 - CSS
@@ -11,6 +13,10 @@
 - JavaScript Basics
 
 - ReactJS
+
+- NextJS
+
+# Back End
 
 - NodeJS and NPM Basics
 
